@@ -20,7 +20,7 @@ In order to build a house , you must draw the building architecture first , so i
 
 After some deep research i was able to create an architecture for deploying my K8S cluster :
 
-![Kubernetes Cluster Architecture](pictures\pic.png)   
+![Kubernetes Cluster Architecture](pictures/pic.png)   
 <p align="center"><i>Figure 1: Diagram of the Amazon Kubernetes Cluster Architecture</i></p>         
 
 Here is a breakdown of each component and its function :
